@@ -202,7 +202,7 @@
                 "content": "Tap my screen when you're done using your magnifier.",
                 "message_type": "multiple choice one column",
                 "transitions": [
-                    "how do you feel about vision"
+                    "ask to share news story"
                 ],
                 "options": [
                     "Next"
@@ -224,7 +224,7 @@
                 "content": "{'var': 'response to no concerns'}",
                 "message_type": "multiple choice one column",
                 "transitions": [
-                    "show me"
+                    "ask to share news story"
                 ],
                 "options": [
                     "Next"
